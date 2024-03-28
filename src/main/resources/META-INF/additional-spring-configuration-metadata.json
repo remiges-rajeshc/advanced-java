@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "pdf.file.prefix_pdf",
+    "type": "java.lang.String",
+    "description": "A description for 'pdf.file.prefix_pdf'"
+  },
+  {
+    "name": "property1",
+    "type": "java.lang.String",
+    "description": "A description for 'property1'"
+  }
+]}
